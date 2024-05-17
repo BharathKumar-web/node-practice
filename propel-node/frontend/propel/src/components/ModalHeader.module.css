@@ -1,0 +1,13 @@
+.modalHeader{
+    background-color: darkgray;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.pathwayHeaderText{
+    color:black;
+    font-size: 18px;
+    font-weight: 900;
+    font-family: "Roboto",sans-serif;
+}

@@ -1,0 +1,43 @@
+.parentContainer {
+    border: 1px solid #DDD;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.pathWayContainer {
+    margin: 20px
+}
+.btn{
+    background-color:rgb(32, 103, 167);
+    color:white;
+    border:none;
+    border-radius: 5px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.searchContainer {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.searchPathway {
+    border: 1px solid #DDD;
+    width: 300px;
+    height: 36px;
+    border-radius: 5px;
+    margin-left: 10px;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    color: grey
+}
+
+.searchPathway:focus {
+    outline: none;
+}
