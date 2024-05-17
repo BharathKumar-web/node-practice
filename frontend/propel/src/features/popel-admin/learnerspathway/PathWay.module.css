@@ -1,0 +1,19 @@
+.tableContainer {
+  border: 1px solid rgb(215, 215, 215);
+  border-collapse: collapse;
+  width: 100%;
+  border-radius: 15px;
+}
+.tableData {
+  border: 1px solid rgb(215, 215, 215);
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+}
+.tableDataHeader {
+    border: 1px solid rgb(215, 215, 215);
+    height: 40px;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    color: grey;
+  }
